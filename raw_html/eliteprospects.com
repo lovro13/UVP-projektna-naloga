@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="csrf-token" content="gYas6mqQVX2CqdKQu0Ap2fwmrvIEuehq8tPdpM9b">
+        <meta name="csrf-token" content="4SqYClr1XIAjqBoyZqo9ZaWaHTylXDAECA0hPEue">
     <script type="text/javascript" src="https://db760ecce1e9.edge.sdk.awswaf.com/db760ecce1e9/97a55d8e55c5/challenge.js" defer></script>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <script type="text/javascript">
@@ -68,21 +68,21 @@ var globalData = {
     <meta name="msapplication-navbutton-color" content="#0b3548">
     <meta name="apple-mobile-web-app-status-bar-style" content="#4285f4">
     <base href="https://www.eliteprospects.com">
-        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=5626">
+        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=5632">
 
-            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=5626" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/custom_style.css?v=5626" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=5626" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/bootstrap-multiselect.css?v=5626" rel="stylesheet">
+            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=5632" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/custom_style.css?v=5632" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=5632" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/bootstrap-multiselect.css?v=5632" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.css" integrity="sha256-F8gzbY2A1VTf49iOrc8Lst/UvcUtoFr3myix0WMiNqA=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/roundSlider/1.3.2/roundslider.min.css" integrity="sha256-Wneaso/SLW7HI/mW+HYAoQSSF9f/71Cdalqk5UiD3Fs=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" integrity="sha256-auPoJwk/+RK6KSkib92Dkq1Y5hEkZvKtvSwucs15Skg=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/prem.css?v=5626" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/prem.css?v=5632" rel="stylesheet">
         <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.css" integrity="sha256-SyWqODkStAbrafgJ9K8twjULP7yL6yTRZKoFGjDYybI=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=5626" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/responsive.css?v=5626" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/fix.css?v=5626" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=5632" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/responsive.css?v=5632" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/fix.css?v=5632" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -106,7 +106,7 @@ var globalData = {
                                 }}();
     </script>
     
-                                        <script async='async' src='https://static.eliteprospects.com/js/sticky.min.js?v=5626'></script>
+                                        <script async='async' src='https://static.eliteprospects.com/js/sticky.min.js?v=5632'></script>
 <script async='async' src='https://lwadm.com/lw/pbjs?pid=6c00e01b-2b7a-4232-a202-099e014b81b2'></script>
 <script type='text/javascript'>
     var lwhbed = lwhbed || {cmd:[]};
@@ -118,7 +118,7 @@ var globalData = {
     adsmtag.cmd = adsmtag.cmd || [];
 </script>                        <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "263b63f4-b290-4c41-be78-9bdb52f95f91", shorten: false, doNotHash: false, doNotCopy: false, popup: true, hashAddressBar: false});</script>
-    <script src="https://static.eliteprospects.com/js/epr-widget.js?v=5626" defer></script>
+    <script src="https://static.eliteprospects.com/js/epr-widget.js?v=5632" defer></script>
 <script>
     if (!document.cookie.match('(^|;)\\s*ep_referrer\\s*=\\s*([^;]+)')?.pop() || '') {
         const setReferrerUrl = "https://www.eliteprospects.com/set-ref";
@@ -180,7 +180,7 @@ var globalData = {
     <!-- End Google Tag Manager (noscript) -->
                                     <!-- Adform publisher tag -->
         <!-- Tag for Eliteprospects.com Sverige - Eliteprospects - Panorama Adnami placement -->
-        <script data-adfscript="adx.adform.net/adx/?mid=1000006&rnd=4706348667596408357"></script>
+        <script data-adfscript="adx.adform.net/adx/?mid=1000006&rnd=7990776443815018895"></script>
         <script src="//s1.adform.net/banners/scripts/adx.js" async defer></script>
         <div id="dialog" title="Information">
         <p></p>
@@ -806,7 +806,7 @@ var globalData = {
         </vue-modal-menu-wrapper>
             </nav>
     <form id="logout-form" action="https://www.eliteprospects.com/logout" method="POST" style="display: none;">
-        <input type="hidden" name="_token" value="gYas6mqQVX2CqdKQu0Ap2fwmrvIEuehq8tPdpM9b">
+        <input type="hidden" name="_token" value="4SqYClr1XIAjqBoyZqo9ZaWaHTylXDAECA0hPEue">
     </form>
     <vue-menu-quick-links
         :favorites="[{&quot;id&quot;:7,&quot;name&quot;:&quot;NHL&quot;,&quot;firt_name&quot;:null,&quot;logoSlug&quot;:&quot;6bd23dcd-5599-4699-80d5-607e91eedafc.svg&quot;,&quot;slug&quot;:&quot;nhl&quot;,&quot;type&quot;:&quot;league&quot;}]"
@@ -885,10 +885,10 @@ var globalData = {
          data-start-date="2020-11-30 05:00:01"
          style="margin-bottom: 20px;"
     ></div>
-            <div id="eliteprospects_eu-pano1_ikd3fFfbKJm5m8ssiJxnz17mI8JfDqXZ"  data-esmg-sticky-duration="2000"></div>
+            <div id="eliteprospects_eu-pano1_dYXlpmPlv0x8ajKnp4iK04QEQ7ZXKC7E"  data-esmg-sticky-duration="2000"></div>
 <script >    if (typeof window.frequencyWall === 'undefined' || !window.frequencyWall.reached) {
         lwhbed.cmd.push(function() {
-            lwhbed.loadAd({tagId: 'eliteprospects_eu-pano1_ikd3fFfbKJm5m8ssiJxnz17mI8JfDqXZ', callbackMethod: window.liveWrappedSlotLoaded});
+            lwhbed.loadAd({tagId: 'eliteprospects_eu-pano1_dYXlpmPlv0x8ajKnp4iK04QEQ7ZXKC7E', callbackMethod: window.liveWrappedSlotLoaded});
         });
     }
 </script>                    </div>
@@ -906,12 +906,12 @@ var globalData = {
         </div>
     </div>
     <div class="pull-left">
-        <span> Database: <strong>1 108 629</strong> players </span>
+        <span> Database: <strong>1 108 858</strong> players </span>
     </div>
     <div class="pull-left">
         <span>
             <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"/> </i>
-            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/1109620/athanasios-ziakas">Athanasios Ziakas</a>
+            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/1109854/xavier-pedneault">Xavier Pedneault</a>
         </span>
     </div>
 </div>
@@ -944,17 +944,143 @@ var globalData = {
                             <td>
                                                                     <div class="player-with-flag">
                                         <img
-                                            src="//files.eliteprospects.com/layout/flags_s/9.png"
-                                            alt="Russia"
+                                            src="//files.eliteprospects.com/layout/flags_s/6.png"
+                                            alt="USA"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/552036/yaroslav-askarov">
-                                            Yaroslav Askarov (G)
+                                        <a href="https://www.eliteprospects.com/player/637620/paul-fischer">
+                                            Paul Fischer (D)
                                         </a>
                                     </div>
                                                             </td>
                             <td>
-                                                                    <a href="https://www.eliteprospects.com/league/ahl">
-                                        AHL
+                                                                    <a href="https://www.eliteprospects.com/league/ncaa">
+                                        NCAA
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
+                                            alt="Finland"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/221667/patrik-laine">
+                                            Patrik Laine (F)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/nhl">
+                                        NHL
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/1.png"
+                                            alt="Sweden"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/349467/philip-broberg">
+                                            Philip Broberg (D)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/nhl">
+                                        NHL
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
+                                            alt="Canada"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/322111/dylan-holloway">
+                                            Dylan Holloway (F)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/nhl">
+                                        NHL
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
+                                            alt="Finland"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/56241/ville-vainikainen">
+                                            Ville Vainikainen (F)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/mestis">
+                                        Mestis
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
+                                            alt="Canada"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/45512/ryan-johansen">
+                                            Ryan Johansen (F)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/nhl">
+                                        NHL
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/6.png"
+                                            alt="USA"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/321687/jordan-harris">
+                                            Jordan Harris (D)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/nhl">
+                                        NHL
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
+                                            alt="Canada"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/252496/peter-abbandonato">
+                                            Peter Abbandonato (F)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/liiga">
+                                        Liiga
                                     </a>
                                                             </td>
                         </tr>
@@ -980,17 +1106,53 @@ var globalData = {
                             <td>
                                                                     <div class="player-with-flag">
                                         <img
-                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
-                                            alt="Finland"
+                                            src="//files.eliteprospects.com/layout/flags_s/1.png"
+                                            alt="Sweden"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/3197/valtteri-filppula">
-                                            Valtteri Filppula (F)
+                                        <a href="https://www.eliteprospects.com/player/109979/fredrik-forsberg">
+                                            Fredrik Forsberg (F)
                                         </a>
                                     </div>
                                                             </td>
                             <td>
-                                                                    <a href="https://www.eliteprospects.com/league/mestis">
-                                        Mestis
+                                                                    <a href="https://www.eliteprospects.com/league/erste-liga">
+                                        Erste Liga
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
+                                            alt="Canada"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/424429/arber-xhekaj">
+                                            Arber Xhekaj (D)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/nhl">
+                                        NHL
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/9.png"
+                                            alt="Russia"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/552036/yaroslav-askarov">
+                                            Yaroslav Askarov (G)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/ahl">
+                                        AHL
                                     </a>
                                                             </td>
                         </tr>
@@ -1019,14 +1181,14 @@ var globalData = {
                                             src="//files.eliteprospects.com/layout/flags_s/3.png"
                                             alt="Canada"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/252496/peter-abbandonato">
-                                            Peter Abbandonato (F)
+                                        <a href="https://www.eliteprospects.com/player/3664/dany-heatley">
+                                            Dany Heatley (F)
                                         </a>
                                     </div>
                                                             </td>
                             <td>
-                                                                    <a href="https://www.eliteprospects.com/league/ahl">
-                                        AHL
+                                                                    <a href="https://www.eliteprospects.com/league/del">
+                                        DEL
                                     </a>
                                                             </td>
                         </tr>
@@ -1034,11 +1196,11 @@ var globalData = {
                             <td>
                                                                     <div class="player-with-flag">
                                         <img
-                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
-                                            alt="Canada"
+                                            src="//files.eliteprospects.com/layout/flags_s/6.png"
+                                            alt="USA"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/245224/quinn-wichers">
-                                            Quinn Wichers (D)
+                                        <a href="https://www.eliteprospects.com/player/17504/danny-kristo">
+                                            Danny Kristo (F)
                                         </a>
                                     </div>
                                                             </td>
@@ -1052,17 +1214,35 @@ var globalData = {
                             <td>
                                                                     <div class="player-with-flag">
                                         <img
-                                            src="//files.eliteprospects.com/layout/flags_s/6.png"
-                                            alt="USA"
+                                            src="//files.eliteprospects.com/layout/flags_s/1.png"
+                                            alt="Sweden"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/788947/coben-bryan">
-                                            Coben Bryan (D)
+                                        <a href="https://www.eliteprospects.com/player/99859/fredrik-forsberg">
+                                            Fredrik Forsberg (F)
                                         </a>
                                     </div>
                                                             </td>
                             <td>
-                                                                    <a href="https://www.eliteprospects.com/league/cchl">
-                                        CCHL
+                                                                    <a href="https://www.eliteprospects.com/league/hockeyallsvenskan">
+                                        HockeyAllsvenskan
+                                    </a>
+                                                            </td>
+                        </tr>
+                                                <tr>
+                            <td>
+                                                                    <div class="player-with-flag">
+                                        <img
+                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
+                                            alt="Finland"
+                                        />
+                                        <a href="https://www.eliteprospects.com/player/3197/valtteri-filppula">
+                                            Valtteri Filppula (F)
+                                        </a>
+                                    </div>
+                                                            </td>
+                            <td>
+                                                                    <a href="https://www.eliteprospects.com/league/mestis">
+                                        Mestis
                                     </a>
                                                             </td>
                         </tr>
@@ -1073,8 +1253,8 @@ var globalData = {
                                             src="//files.eliteprospects.com/layout/flags_s/3.png"
                                             alt="Canada"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/45584/cody-ceci">
-                                            Cody Ceci (D)
+                                        <a href="https://www.eliteprospects.com/player/268089/kirby-dach">
+                                            Kirby Dach (F)
                                         </a>
                                     </div>
                                                             </td>
@@ -1088,53 +1268,17 @@ var globalData = {
                             <td>
                                                                     <div class="player-with-flag">
                                         <img
-                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
-                                            alt="Canada"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/603546/tristan-bertucci">
-                                            Tristan Bertucci (D)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/ahl">
-                                        AHL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
                                             src="//files.eliteprospects.com/layout/flags_s/6.png"
                                             alt="USA"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/259245/jonny-ruiz">
-                                            Jonny Ruiz (F)
+                                        <a href="https://www.eliteprospects.com/player/350405/zach-heintz">
+                                            Zach Heintz (F)
                                         </a>
                                     </div>
                                                             </td>
                             <td>
-                                                                    <a href="https://www.eliteprospects.com/league/fphl">
-                                        FPHL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/21.png"
-                                            alt="Germany"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/872615/carlos-handel">
-                                            Carlos Händel (D)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/j20-nationell">
-                                        J20 Nationell
+                                                                    <a href="https://www.eliteprospects.com/league/eihl">
+                                        EIHL
                                     </a>
                                                             </td>
                         </tr>
@@ -1145,158 +1289,14 @@ var globalData = {
                                             src="//files.eliteprospects.com/layout/flags_s/3.png"
                                             alt="Canada"
                                         />
-                                        <a href="https://www.eliteprospects.com/player/526087/spencer-sova">
-                                            Spencer Sova (D)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/ohl">
-                                        OHL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
-                                            alt="Canada"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/693063/gabriel-frasca">
-                                            Gabriel Frasca (F)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/ohl">
-                                        OHL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
-                                            alt="Finland"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/7462/ilari-filppula">
-                                            Ilari Filppula (F)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/liiga">
-                                        Liiga
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/10.png"
-                                            alt="Switzerland"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/85285/lukas-frick">
-                                            Lukas Frick (D)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/nl">
-                                        NL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/11.png"
-                                            alt="Latvia"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/7261/andris-dzerins">
-                                            Andris Dzerins (F)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/germany3">
-                                        Germany3
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/1.png"
-                                            alt="Sweden"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/349467/philip-broberg">
-                                            Philip Broberg (D)
+                                        <a href="https://www.eliteprospects.com/player/620316/florian-xhekaj">
+                                            Florian Xhekaj (F)
                                         </a>
                                     </div>
                                                             </td>
                             <td>
                                                                     <a href="https://www.eliteprospects.com/league/ahl">
                                         AHL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
-                                            alt="Finland"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/540341/markus-loponen">
-                                            Markus Loponen (F)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/u20-sm-sarja">
-                                        U20 SM-sarja
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/3.png"
-                                            alt="Canada"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/693221/jack-brauti">
-                                            Jack Brauti (D)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/ohl">
-                                        OHL
-                                    </a>
-                                                            </td>
-                        </tr>
-                                                <tr>
-                            <td>
-                                                                    <div class="player-with-flag">
-                                        <img
-                                            src="//files.eliteprospects.com/layout/flags_s/2.png"
-                                            alt="Finland"
-                                        />
-                                        <a href="https://www.eliteprospects.com/player/25296/saku-salmela">
-                                            Saku Salmela (D)
-                                        </a>
-                                    </div>
-                                                            </td>
-                            <td>
-                                                                    <a href="https://www.eliteprospects.com/league/liiga">
-                                        Liiga
                                     </a>
                                                             </td>
                         </tr>
@@ -1426,10 +1426,10 @@ var globalData = {
 </div>
 
     <div class="sidebar-ads">
-        <div id="eliteprospects_eu-tavla1_Nfcn74AiNAU5EXvhFkra7VBNRi2x4tyZ"  ></div>
+        <div id="eliteprospects_eu-tavla1_5x6kGcrtQt6MhJ6lSdpYAmF4hwNk037P"  ></div>
 <script >    if (typeof window.frequencyWall === 'undefined' || !window.frequencyWall.reached) {
         lwhbed.cmd.push(function() {
-            lwhbed.loadAd({tagId: 'eliteprospects_eu-tavla1_Nfcn74AiNAU5EXvhFkra7VBNRi2x4tyZ', callbackMethod: window.liveWrappedSlotLoaded});
+            lwhbed.loadAd({tagId: 'eliteprospects_eu-tavla1_5x6kGcrtQt6MhJ6lSdpYAmF4hwNk037P', callbackMethod: window.liveWrappedSlotLoaded});
         });
     }
 </script>        </div>
@@ -6959,10 +6959,10 @@ var globalData = {
     </div>
         <div class="divider"></div>
         <div class="ep-ad__default inner_Add">
-                                                        <div id="eliteprospects_eu-rektangel1_uXL2eRmvbvxShLnn86fgBwZGVBWER4Zo"  ></div>
+                                                        <div id="eliteprospects_eu-rektangel1_gJxnPWCpnPdKYc927657kTXsGTKOivvh"  ></div>
 <script >    if (typeof window.frequencyWall === 'undefined' || !window.frequencyWall.reached) {
         lwhbed.cmd.push(function() {
-            lwhbed.loadAd({tagId: 'eliteprospects_eu-rektangel1_uXL2eRmvbvxShLnn86fgBwZGVBWER4Zo', callbackMethod: window.liveWrappedSlotLoaded});
+            lwhbed.loadAd({tagId: 'eliteprospects_eu-rektangel1_gJxnPWCpnPdKYc927657kTXsGTKOivvh', callbackMethod: window.liveWrappedSlotLoaded});
         });
     }
 </script>                                        </div>
@@ -13986,10 +13986,10 @@ var globalData = {
         </div>
     </div>
                         <div class="right_side hidden-xs">
-                <div id="eliteprospects_eu-sky-sticky1_focCnuwh6OIV8HDGUicdoAI9r1hd9cbd" data-esmg-sticky="true" ></div>
+                <div id="eliteprospects_eu-sky-sticky1_0Jb4Sh1OBmFwmfwqZaZBGYv7R1f5EIf6" data-esmg-sticky="true" ></div>
 <script >    if (typeof window.frequencyWall === 'undefined' || !window.frequencyWall.reached) {
         lwhbed.cmd.push(function() {
-            lwhbed.loadAd({tagId: 'eliteprospects_eu-sky-sticky1_focCnuwh6OIV8HDGUicdoAI9r1hd9cbd', callbackMethod: window.liveWrappedSlotLoaded});
+            lwhbed.loadAd({tagId: 'eliteprospects_eu-sky-sticky1_0Jb4Sh1OBmFwmfwqZaZBGYv7R1f5EIf6', callbackMethod: window.liveWrappedSlotLoaded});
         });
     }
 </script>                </div>
@@ -14118,21 +14118,21 @@ var globalData = {
 </div>
         </div>
     </footer>
-            <script src="https://static.eliteprospects.com/js/jquery.min.js?v=5626"></script>
-                <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/bootstrap-multiselect.js?v=5626"></script>
+            <script src="https://static.eliteprospects.com/js/jquery.min.js?v=5632"></script>
+                <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/bootstrap-multiselect.js?v=5632"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.js" integrity="sha256-vFhEtGnaQ2xB+yjBTSXxssthNcfdbzu+lmLYhCdp2Cc=" crossorigin="anonymous"></script>
-    <script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=5626"></script>
+    <script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=5632"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js" integrity="sha256-DiHJ7hbvMejsMyP76bpVWacb5HSHQ2sQlrJV8n7KEvA=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.js" integrity="sha256-+PQmsBomnsT/06XEdk7ibt/9We4DX+VKzJsw/+DCzc0=" crossorigin="anonymous"></script>
-        <script src="https://static.eliteprospects.com/js/premium.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/script.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/app.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/pro/components.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/lazysizes.min.js?v=5626"></script>
-    <script src="https://static.eliteprospects.com/js/expandable.js?v=5626"></script>
+        <script src="https://static.eliteprospects.com/js/premium.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/script.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/app.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/pro/components.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/lazysizes.min.js?v=5632"></script>
+    <script src="https://static.eliteprospects.com/js/expandable.js?v=5632"></script>
         <!-- Adform Tracking Code BEGIN -->
     <script type="text/javascript">
         window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
@@ -14164,7 +14164,7 @@ var globalData = {
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('https://static.eliteprospects.com/ / sw.js ?v=5626').then(function(registration) {
+                navigator.serviceWorker.register('https://static.eliteprospects.com/ / sw.js ?v=5632').then(function(registration) {
                     // Registration was successful
                     console.log('ServiceWorker registration successful with scope: ', registration.scope);
                 }, function(err) {
