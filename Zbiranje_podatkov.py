@@ -3,6 +3,7 @@ import os
 import re
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 zacetni_url = "https://www.eliteprospects.com/league/nhl/stats/2023-2024?page=1"
 mapa_za_html = "raw_html"
@@ -30,7 +31,7 @@ def pridobivanje_strani(stran, mapa, datoteka):
     
     return htmlkoda #vrne html kodo ker jo bomo potrebovali kasneje
 
-rawhtml = pridobivanje_strani(zacetni_url, mapa_za_html, "eliteprospects")
+#rawhtml = pridobivanje_strani(zacetni_url, mapa_za_html, "eliteprospects")
 
 #rabimo 100 strani
 # rawhtml = pridobivanje_strani(zacetni_url, mapa_za_html, "eliteprospects") # to je samo za eno stran, zdaj rabimo za 100
@@ -41,6 +42,8 @@ leta = ["2023-2024", "2022-2023", "2021-2022", "2020-2021", "2019-2020", "2018-2
 for leto in leta:
     for i in range(9):
         sez_strani.append(f"https://www.eliteprospects.com/league/nhl/stats/{leto}?page={i+1}")
+#sez_strani.append("https://www.eliteprospects.com/league/nhl/stats/2023-2024?page=1")
+
 
 sez_rawhtml = []
 for stran in sez_strani:
@@ -102,14 +105,17 @@ def dobivaje_slovarja(blok): # torej za enega igralca
 
         plus_minus = soup.find("td", class_="pm").text.strip()
         slovar["Razlika prejetih in danih golov"] = plus_minus
+    else:
+        return
  
     return  slovar
 
 def seznam_slovarjev_za_vse_igralce(bloki_igralcev):
     sez_slovarjev = []
     for blok in bloki_igralcev:
-            slovar = dobivaje_slovarja(blok)
-            sez_slovarjev.append(slovar)
+            if dobivaje_slovarja(blok) != None:
+                slovar = dobivaje_slovarja(blok)
+                sez_slovarjev.append(slovar)
     return sez_slovarjev
 
 seznam_slovarjev = seznam_slovarjev_za_vse_igralce(bloki_igralcev)
@@ -133,4 +139,5 @@ def dobivanje_stolpcev(seznam_slovarjev):
 
 stolpci = dobivanje_stolpcev(seznam_slovarjev)
 
-csv_file_iz_slovarjev(stolpci, seznam_slovarjev, mapa_za_csv, ime_csv_datoteke)
+csv_file_iz_slovarjev(stolpci, seznam_slovarjev, mapa_za_csv, ime_csv_datoteke) # napise csv
+
