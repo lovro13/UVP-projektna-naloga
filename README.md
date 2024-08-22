@@ -1,4 +1,4 @@
-# UVP-projektna-nalog
+# UVP-projektna-naloga
 # Analiza igralcev hokeja iz zadnjih destih let
 
 Za projektno sem naredil program, ki pobere podatke s elite-prospects.com in jih malo analizira. Podatki ki jih pobere so statistični podatki hokejskih igralcev
